@@ -81,7 +81,7 @@ Dependencies
 Download
 ========
  * Git tree:   https://github.com/zoinofficial/cpuminer-zoin
- * Clone with `git clone https://github.com/zoinzoinofficical/cpuminer-zoin`
+ * Clone with `git clone https://github.com/zoinofficical/cpuminer-zoin`
 
 Build
 =====
